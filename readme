@@ -1,0 +1,15 @@
+instructions for downloading files:
+    .crx extension 2captcha for chrome browser download from here
+    https://clients2.google.com/service/update2/crx?response=redirect&prodversion=[PRODVERSION]&acceptformat=crx2,crx3&x=id%3D[EXTENSIONID]%26uc
+    i'm use chrome version 104.0.5112.102,
+    PRODVERSION = 104.0.5112.102
+    EXTENSIONID = ifibfemgeogfhoebkmokieepdoobkbpo
+    or http://ww7.chrome-extension-downloader.com/
+
+    chromedriver for browser download from here
+    https://chromedriver.chromium.org/downloads
+
+not working solving captcha, writes: error_sitekey, but when i use this extension to solving captcha with my default browser(not selenium) this working
+
+run main.py, set your api key for 2captcha in config
+
