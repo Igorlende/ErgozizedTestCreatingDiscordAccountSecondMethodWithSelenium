@@ -13,3 +13,5 @@ not working solving captcha, writes: error_sitekey, but when i use this extensio
 
 run main.py, set your api key for 2captcha in config
 
+use python 3.8
+
